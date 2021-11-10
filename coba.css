@@ -4,10 +4,14 @@
     height: 350px;
     border-radius: 10px;
 }
-#body{
-    background-color: #686de0;
+#rate_section{
+    margin-bottom: 7rem;
 }
 
+#nav_user{
+    background-color: #686de0;
+    color:black;
+}
 .star {
   visibility:hidden;
   font-size:30px;
@@ -33,11 +37,11 @@
     background-color: #4834d4;
     color: white;
 }
-@media(max-width:966px){
+@media(max-width:987px){
     #rate{
         height: 700px;
-        width: 500px;
-
+        width: 570px;
+        margin-right:4rem;
     }
     #rate_section{
         margin-top: 3rem;
