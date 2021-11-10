@@ -37,6 +37,9 @@
     background-color: #4834d4;
     color: white;
 }
+#btn:hover{
+    background-color:#4934d4c4;
+}
 @media(max-width:987px){
     #rate{
         height: 700px;
